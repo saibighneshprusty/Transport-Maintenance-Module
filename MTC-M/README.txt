@@ -25,4 +25,4 @@ For tyres, as discussed, we will do it in the last.
 The files end with .html now. 
 It's fine. For now.
 
-When we finish this project , all those .html files would become .php. (and it should)
+When we finish this project , all those .html files would become .php.
